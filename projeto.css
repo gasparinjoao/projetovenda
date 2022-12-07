@@ -36,3 +36,36 @@ a {
 	color: red;
 	
 }
+
+.titulo {
+	text-align: center;
+}
+
+div {
+	text-align: center;
+}
+
+.img {
+	
+}
+
+.p2{
+	text-align: center;
+	color: red;
+	font-style: italic;
+	font-size: 35px;
+	margin-top: 45px;
+}
+
+.titulo {
+	display: inline-block;
+	text-align: center;
+	width: 30%;
+	vertical-align: top;
+	margin: 0 1.5%;
+	padding-left: 1100px;
+	margin-top: 88px;
+	box-sizing: border-box;
+	border: 2px solid #000000;
+	border-radius: 10px;
+}
