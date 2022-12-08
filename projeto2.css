@@ -1,0 +1,24 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.pp {
+	width: 12%;
+}
+
+header {
+	background: black;
+
+}
+
+p {
+	text-align: center;
+	font-size: 40px;
+	margin-top: 30px;
+}
+
+div {
+	text-align: center;
+}

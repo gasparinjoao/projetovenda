@@ -1,0 +1,75 @@
+*{
+	padding: 0;
+	margin: 0;
+	box-sizing: border-box;
+}
+
+.pp {
+	width: 12%;
+}
+
+header {
+	background: black;
+
+}
+
+li a {
+	font-size: 35px;
+	text-decoration: none;
+	color: white;
+}
+
+h1 {
+	text-align: center;
+	font-style: italic;
+	padding-top: 45px;
+}
+
+.p1 {
+	font-size: 25px;
+	margin-left: 15px;
+	margin-right: 15px;
+}
+
+a {
+	font-style: italic;
+	color: red;
+	
+}
+
+.titulo {
+	text-align: center;
+}
+
+div {
+	text-align: center;
+}
+
+.img {
+	
+}
+
+.p2{
+	text-align: center;
+	color: red;
+	font-style: italic;
+	font-size: 35px;
+	margin-top: 45px;
+}
+
+.titulo {
+	display: inline-block;
+	text-align: center;
+	width: 30%;
+	vertical-align: top;
+	margin: 0 1.5%;
+	padding-left: 1100px;
+	margin-top: 88px;
+	box-sizing: border-box;
+	border: 2px solid #000000;
+	border-radius: 10px;
+}
+
+button {
+	
+}
